@@ -1,1 +1,1 @@
-This program is the first password string system program.
+This program is the first string project program.
